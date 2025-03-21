@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://retrogames-bysid.firebaseapp.com/sitemap.xml 
